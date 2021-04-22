@@ -20,9 +20,9 @@ function handleClick(event) {
         }, 10);
 
         if (playerTime == 0) {
-            document.getElementById("p1").innerHTML = ;
+            document.getElementById("p1").innerHTML = '';
         }else{
-            document.getElementById("p2").innerHTML = ;
+            document.getElementById("p2").innerHTML = '';
         }
 
         document.getElementById("reiniciar").style.visibility = "visible";
